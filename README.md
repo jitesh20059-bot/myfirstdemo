@@ -1,3 +1,3 @@
 # myfirstdemo
 this is my first git repositroy
-author-Jitesh kumar
+author-Jitesh jeet
